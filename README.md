@@ -1,5 +1,8 @@
 ## Sistema de triaje
 
+![logo](https://i.postimg.cc/CdT5Y8cK/db9e839e-2b20-4ecb-8f38-1707ce57c76d.png)
+
+
 El sistema de triaje es una herramienta utilizada en entornos médicos para clasificar la gravedad de los pacientes y determinar el orden de atención. Este sistema ayuda a los profesionales de la salud a asignar los recursos de manera eficiente y garantizar que los pacientes más urgentes reciban atención inmediata.
 
 ## Estados del sistema
