@@ -1,3 +1,10 @@
+
+/*
+    * Author: Bryan Ronaldo Sánchez Mendoza
+    * Version: 0.1.18v
+    * fecha_dev: 15/10/23
+*/
+
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
